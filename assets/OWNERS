@@ -1,9 +1,0 @@
-# Label certain changes as web development
-
-filters:
-  "\\.js":
-    labels:
-    - area/web-development
-  "\\.scss$":
-    labels:
-    - area/web-development

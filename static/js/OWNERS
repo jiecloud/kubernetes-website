@@ -1,9 +1,0 @@
-# Label certain changes as web development
-
-filters:
-  ".*":
-    approvers:
-    - sig-docs-website-owners # Defined in OWNERS_ALIASES
-  "\\.js":
-    labels:
-    - area/web-development
